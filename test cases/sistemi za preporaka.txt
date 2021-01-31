@@ -1,0 +1,485 @@
+ПРЕПОРАКА НА МУЗИЧКИ ИЗВЕДУВАЧ
+input
+2
+20
+output
+item-based
+3121
+
+input	
+2
+50
+output
+user-based
+1673
+ 
+input	
+2
+49
+output
+item-based
+3121
+ 
+input	
+540
+10
+output
+najgolem prosecen broj slusanja
+6373
+ 
+input	
+35
+20
+output
+user-based
+163
+
+ПРЕПОРАКА НА ФИЛМОВИ
+input
+Lisa Rose
+output
+Lady in the Water
+ 
+input	
+Gene Seymour
+output
+Snitch
+ 
+input
+Michael Phillips
+output
+Snakes on a Plane
+ 
+input	
+Claudia Puig
+output
+Snitch
+ 
+input	
+Mick LaSalle
+output
+The Night Listener
+ 
+input	
+Larry
+output
+Superman Returns
+
+ПРЕПОРАКА НА ШЕГИ
+input
+13
+output
+Preciznost so user-based preporaki: 0.0
+Odziv so user-based preporaki: 0.0
+Preciznost so item-based preporaki: 0.2222222222222222
+Odziv so item-based preporaki: 1.0
+ 
+input	
+95
+output
+Preciznost so user-based preporaki: 0.5
+Odziv so user-based preporaki: 0.4
+Preciznost so item-based preporaki: 0.75
+Odziv so item-based preporaki: 0.6
+ 
+input	
+175
+output
+Preciznost so user-based preporaki: 0.4
+Odziv so user-based preporaki: 0.5
+Preciznost so item-based preporaki: 0.5
+Odziv so item-based preporaki: 1.0
+ 
+input	
+226
+output
+Preciznost so user-based preporaki: 0.5
+Odziv so user-based preporaki: 0.125
+Preciznost so item-based preporaki: 0.8888888888888888
+Odziv so item-based preporaki: 1.0
+ 
+input	
+324
+output
+Preciznost so user-based preporaki: 0.6
+Odziv so user-based preporaki: 0.75
+Preciznost so item-based preporaki: 0.4444444444444444
+Odziv so item-based preporaki: 1.0
+
+ПРЕЦИЗНОСТ И ОДЗИВ НА СИСТЕМ ЗА ПРЕПОРАКА
+input
+40
+output
+Preciznost: 0.023999999999999973
+Odziv: 0.023999999999999973
+ 
+input	
+45
+output
+Preciznost: 0.02290909090909089
+Odziv: 0.02290909090909089
+ 
+input	
+50
+output
+Preciznost: 0.022799999999999987
+Odziv: 0.022799999999999987
+ 
+input	
+55
+output
+Preciznost: 0.02399999999999999
+Odziv: 0.02399999999999999
+ 
+input	
+60
+output
+Preciznost: 0.024499999999999997
+Odziv: 0.024499999999999997
+ 
+input	
+65
+output
+Preciznost: 0.022857142857142868
+Odziv: 0.022857142857142868
+ 
+input	
+70
+output
+Preciznost: 0.024666666666666677
+Odziv: 0.024666666666666677
+ 
+input	
+75
+output
+Preciznost: 0.02720000000000001
+Odziv: 0.02720000000000001
+ 
+input	
+80
+output
+Preciznost: 0.022000000000000006
+Odziv: 0.022000000000000006
+ 
+input	
+85
+output
+Preciznost: 0.024000000000000007
+Odziv: 0.024000000000000007
+
+ПРЕПОРАКА НА НОВ МУЗИЧКИ ИЗВЕДУВАЧ
+input
+4814
+252:248, 302:3781, 327:291, 351:365, 405:908, 419:47, 472:113, 527:853
+527
+output
+Noviot izveduvach e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 4814, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4566, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1596, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 279, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 2981, slichnost so noviot izveduvac: 0.8145684781588619
+	- Izveduvac: 317, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 308, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 332, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 285, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 907, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 913, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 349, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 314, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 3319, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 323, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 257, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 532, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 294, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 475, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 5462, slichnost so noviot izveduvac: 1.0
+ 
+input	
+1338
+41:1955, 84:1097, 212:52, 295:303, 300:141, 377:1641, 424:287
+300
+output
+Noviot izveduvach e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 1349, slichnost so noviot izveduvac: 0.9137516762196021
+	- Izveduvac: 2342, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 928, slichnost so noviot izveduvac: 0.8111994020113692
+	- Izveduvac: 953, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 936, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1339, slichnost so noviot izveduvac: 0.9958847579603507
+	- Izveduvac: 503, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 923, slichnost so noviot izveduvac: 0.9953382703234631
+	- Izveduvac: 930, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1342, slichnost so noviot izveduvac: 0.9996076196804051
+	- Izveduvac: 1338, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 181, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 732, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 949, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 922, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1351, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 25, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1992, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1366, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 841, slichnost so noviot izveduvac: 0.9839240896619281
+	- Izveduvac: 1261, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1672, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1363, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 2009, slichnost so noviot izveduvac: 1.0
+ 
+input	
+3481
+157:55, 237:91, 250:651, 282:622, 292:1150, 406:333, 529:1005
+292
+output
+Noviot izveduvach e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 3481, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 2624, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 222, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1639, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1413, slichnost so noviot izveduvac: 0.9180430875548423
+	- Izveduvac: 2375, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 2343, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 614, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1122, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 234, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 854, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1372, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1360, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4782, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 190, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 609, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 2342, slichnost so noviot izveduvac: 1.0
+ 
+input	
+909
+25:173, 158:477, 352:60, 494:549
+158
+output
+Noviot izveduvach ne e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 5767, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 328, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 293, slichnost so noviot izveduvac: 0.943884727630188
+	- Izveduvac: 909, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 536, slichnost so noviot izveduvac: 0.9910867998847438
+	- Izveduvac: 689, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 680, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 310, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 292, slichnost so noviot izveduvac: 0.9477115123428812
+	- Izveduvac: 295, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 461, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 498, slichnost so noviot izveduvac: 0.9865216504912866
+	- Izveduvac: 344, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 701, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 289, slichnost so noviot izveduvac: 0.9327431617394734
+	- Izveduvac: 333, slichnost so noviot izveduvac: 0.9846751160908194
+	- Izveduvac: 67, slichnost so noviot izveduvac: 1.0
+ 
+input	
+1416
+44:255, 125:352, 128:467, 195:55, 218:63, 282:651, 298:5726, 393:239, 482:207
+282
+output
+Noviot izveduvach ne e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 3065, slichnost so noviot izveduvac: 0.8253088871223146
+	- Izveduvac: 1106, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1100, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 418, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1239, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 439, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1416, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 306, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1090, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 206, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 208, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1242, slichnost so noviot izveduvac: 0.8534748762523287
+	- Izveduvac: 1104, slichnost so noviot izveduvac: 0.9266776321115847
+	- Izveduvac: 2176, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1390, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 962, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 209, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1426, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 182, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1415, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 65, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 212, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 88, slichnost so noviot izveduvac: 1.0
+ 
+input	
+1533
+51:167, 178:264, 208:84, 255:546, 395:288
+208
+output
+Noviot izveduvach ne e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 1528, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 220, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 949, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1104, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1533, slichnost so noviot izveduvac: 1.0
+ 
+input	
+374
+9:708, 37:252, 158:843, 274:295, 418:1040, 501:203
+158
+output
+Noviot izveduvach e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 4558, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 3324, slichnost so noviot izveduvac: 0.9998942852239623
+	- Izveduvac: 304, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 395, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 394, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 375, slichnost so noviot izveduvac: 0.8288575145239644
+	- Izveduvac: 301, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 374, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 378, slichnost so noviot izveduvac: 0.9904972174676104
+	- Izveduvac: 299, slichnost so noviot izveduvac: 0.9822927629427574
+	- Izveduvac: 321, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1047, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 349, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 302, slichnost so noviot izveduvac: 0.9697849995483885
+	- Izveduvac: 525, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 292, slichnost so noviot izveduvac: 0.9511924303507879
+	- Izveduvac: 461, slichnost so noviot izveduvac: 0.9920707021723084
+	- Izveduvac: 972, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 344, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 701, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 67, slichnost so noviot izveduvac: 0.9996091868173467
+	- Izveduvac: 257, slichnost so noviot izveduvac: 0.9886073538386185
+ 
+input	
+1214
+37:283, 51:1074, 108:393
+37
+output
+Noviot izveduvach ne e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 1274, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 923, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 841, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 188, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 918, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1521, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 917, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1104, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1249, slichnost so noviot izveduvac: 1.0
+
+input	
+4833
+254:690, 319:662, 404:40, 512:554
+512
+output
+Noviot izveduvach e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 1192, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4826, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4824, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4822, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4820, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4833, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1406, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 383, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 412, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1046, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 4375, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1186, slichnost so noviot izveduvac: 1.0
+ 
+input	
+1151
+38:15, 50:533, 59:1060, 140:751, 153:495, 196:406, 344:14, 441:159, 465:217, 475:318, 476:323
+140
+output
+Noviot izveduvach ne e preporachan vo prvite 300 preporaki.
+Preporaki:
+	- Izveduvac: 3412, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1511, slichnost so noviot izveduvac: 0.9849307173702224
+	- Izveduvac: 421, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1119, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 84, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1510, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 423, slichnost so noviot izveduvac: 0.972280107079334
+	- Izveduvac: 1155, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1104, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1376, slichnost so noviot izveduvac: 0.9339852268032586
+	- Izveduvac: 1375, slichnost so noviot izveduvac: 0.9545660526952674
+	- Izveduvac: 1167, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 851, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1394, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 420, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1098, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 703, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 233, slichnost so noviot izveduvac: 0.9995358665220597
+	- Izveduvac: 959, slichnost so noviot izveduvac: 0.9936054693002186
+	- Izveduvac: 1151, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 72, slichnost so noviot izveduvac: 0.8443472142751275
+	- Izveduvac: 238, slichnost so noviot izveduvac: 0.9618692419244697
+	- Izveduvac: 59, slichnost so noviot izveduvac: 0.9576099185503317
+	- Izveduvac: 603, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 425, slichnost so noviot izveduvac: 0.9961996037150072
+	- Izveduvac: 1106, slichnost so noviot izveduvac: 0.9943830227048329
+	- Izveduvac: 441, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1048, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1512, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 857, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 1520, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 298, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 159, slichnost so noviot izveduvac: 0.9881111836203729
+	- Izveduvac: 1400, slichnost so noviot izveduvac: 0.9878180892368564
+	- Izveduvac: 1517, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 67, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 212, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 206, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 234, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 757, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 498, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 436, slichnost so noviot izveduvac: 0.9209342218021646
+	- Izveduvac: 486, slichnost so noviot izveduvac: 0.9102271222588436
+	- Izveduvac: 163, slichnost so noviot izveduvac: 1.0
+	- Izveduvac: 429, slichnost so noviot izveduvac: 1.0
+
+ПРЕПОРАКА НА ФИЛМОВИ
+input
+2233
+11: 2.3, 55: 4.7, 34: -3.2
+output
+Preciznost bez dodavanje na korisnik: 0.012800000000000008
+Preciznost so dodavanje na korisnik: 0.012800000000000008
+Dodavanjeto na korisnik ne ja menuva preciznosta
+
+input	
+4444
+89: -1995, 180: -1996, 253: -1987, 257: -1996, 289: -1992, 292: -1983, 302: -1996, 310: -1996, 328: -1996, 342: -1995, 355: -1992, 378: -1993, 455: -1959, 472: -1996, 488: -1993, 511: -1997, 518: -1996, 544: -1996, 683: -1993, 701: -1995, 708: -1991, 951: -1989, 966: -1990, 1241: -1995,             1247: -1991, 1249: -1989, 1459: -1968, 1470: -1994, 1556: -1994, 1698: -1992, 2020: -1996, 2067: -1995, 2346: -1991, 2392: -1996, 2977: -1994, 2986: -1996, 3074: -1972, 3081: -1994, 3097: -1961, 3376: -1997, 3856: -1996, 4708: -1992, 4850: -1996, 5441: -1993, 7321: -1991, 7857: -1994, 7858: -1996, 7859: -1996, 7860: -1996
+output
+Preciznost bez dodavanje na korisnik: 0.012800000000000008
+Preciznost so dodavanje na korisnik: 0.012800000000000008
+Dodavanjeto na korisnik ne ja menuva preciznosta
+
+input	
+2222
+55: -1999, 97: -1999, 180: -1999, 228: -1999, 230: -1982, 256: -1998, 279: -1996, 290: -1998, 291: -1971, 292: -733, 300: -1990, 301: -1996, 302: -1958, 305: -1994, 307: -1997, 311: -1999, 316: -1993, 317: -1998, 333: -1999, 378: -1998, 466: -1996, 534: -1998, 542: -1998, 689: -1998, 697: -1998, 704: -1999, 714: -1999, 720: -1997, 889: -1997, 1062: -1998, 1249: -1998, 1459: -1998, 1470: -1996, 1556: -1926, 2019: -1997, 2082: -1992, 2083: -1999, 2392: -1990, 2786: -1994, 3200: -1998, 3763: -1995, 4489: -1998, 4575: -1998, 5765: -1936, 5766: -1953, 5767: -1991, 5768: -1997, 5769: -1997, 5770: -1998
+output
+Preciznost bez dodavanje na korisnik: 0.012800000000000008
+Preciznost so dodavanje na korisnik: 0.014400000000000007
+Dodavanjeto na korisnik ja zgolemuva preciznosta
+
+input	
+6666
+56: -1999, 61: -1999, 81: -1999, 206: -1999, 219: -1999, 233: -1998, 234: -1999, 434: -1999, 578: -1999, 599: -1999, 605: -1999, 611: -1999, 612: -1999, 629: -1999, 748: -1999, 1411: -1999, 1508: -1999, 1881: -1999, 1970: -1999, 2289: -1999, 2470: -1999, 3011: -1999, 3285: -1999, 3354: -1999, 3364: -1999, 3447: -1999, 3666: -1999, 3686: -1999, 3987: -1999, 4064: -1999, 4079: -1999, 5152: -1999, 5434: -1999, 5782: -1999, 6205: -1999, 6823: -1998, 6824: -1999, 6825: -1999, 6826: -1999, 6827: -1999, 6828: -1999, 6829: -1999, 6830: -1999, 6831: -1999, 6832: -1999, 6833: -1999, 6834: -1999, 6835: -1999, 6836: -1999
+output
+Preciznost bez dodavanje na korisnik: 0.012800000000000008
+Preciznost so dodavanje na korisnik: 0.01253333333333334
+Dodavanjeto na korisnik ja namaluva preciznosta
+
+input	
+3322
+173: -1990, 197: -1988, 207: -1983, 226: -1975, 233: -1932, 238: -1981, 407: -1991, 432: -1995, 441: -1990, 533: -1968, 603: -1991, 709: -1991, 769: -1993, 857: -1994, 969: -1977, 986: -1991, 1048: -1995, 1099: -1973, 1131: -1987, 1191: -1994, 1988: -1994, 2271: -1995, 2288: -1992, 2380: -1995, 2459: -1994, 2605: -1990, 2810: -1978, 2811: -1978, 2812: -1978, 2813: -1981, 2814: -1987, 2815: -1988, 2816: -1990, 2817: -1990, 2818: -1991, 2819: -1991, 2820: -1991, 2821: -1992, 2822: -1992, 2823: -1993, 2824: -1993, 2825: -1993, 2826: -1994, 2827: -1994, 2828: -1994, 2829: -1994, 2830: -1994, 2831: -1994, 2832: -1995
+output
+Preciznost bez dodavanje na korisnik: 0.012800000000000008
+Preciznost so dodavanje na korisnik: 0.012800000000000008
+Dodavanjeto na korisnik ne ja menuva preciznosta
+

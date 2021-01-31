@@ -1,0 +1,189 @@
+ПРЕДВИДУВАЊЕ НА КЛАСА ВО ВРЕМЕНСКИ СЕРИИ
+output
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+Tochnost: 0.8372093023255814
+Preciznost: 0.9682539682539683
+Odziv: 0.7625
+
+КЛАСИФИКАЦИЈА НА КЛАСА НА ВРЕМЕНСКА СЕРИЈА СО ЕДЕН И ДВА ЛИЗГАЧКИ ПРОЗОРЦИ
+output
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+nevaliden podatok
+Drvo so dva prozorci
+Tochnost: 0.8372093023255814
+Preciznost: 0.9682539682539683
+Odziv: 0.7625
+Drvo so eden prozorec
+Tochnost: 0.8372093023255814
+Preciznost: 0.9682539682539683
+Odziv: 0.7625
+
+КОНЦЕНТРАЦИЈА НА PM10 ЧЕСТИЧКИ ВО ВОЗДУХОТ
+input
+60
+min
+output
+Tochnost: 0.9444444444444444
+Preciznost: 0.9444444444444444
+Odziv: 1.0
+ 
+input	
+60
+max
+output
+Tochnost: 0.9444444444444444
+Preciznost: 0.9444444444444444
+Odziv: 1.0
+ 
+input	
+70
+mean
+output
+Tochnost: 0.9285714285714286
+Preciznost: 0.9285714285714286
+Odziv: 1.0
+ 
+input	
+5
+mean
+output
+Tochnost: 0.8727272727272727
+Preciznost: 0.9421487603305785
+Odziv: 0.8444444444444444
+
+input	
+3
+mean,median,mode
+output
+Tochnost: 0.8211382113821138
+Preciznost: 0.9401709401709402
+Odziv: 0.7482993197278912
+ 
+input	
+8
+mean,median,mode
+output
+Tochnost: 0.9322916666666666
+Preciznost: 0.957983193277311
+Odziv: 0.9344262295081968
+
+input	
+10
+mean
+output
+Tochnost: 0.9085714285714286
+Preciznost: 0.9532710280373832
+Odziv: 0.9026548672566371
+
+input	
+10
+min,max,mean,median
+output
+Tochnost: 0.7428571428571429
+Preciznost: 0.8863636363636364
+Odziv: 0.6902654867256637
+ 
+input	
+5
+min,max,mean,median
+output
+Tochnost: 0.9045454545454545
+Preciznost: 0.9253731343283582
+Odziv: 0.9185185185185185
+
+input	
+8
+max,mean
+output
+Tochnost: 0.8125
+Preciznost: 0.9387755102040817
+
+КВАЛИТЕТ НА ВОЗДУХ
+60
+mean
+output
+Tochnost: 0.8009950248756219
+Preciznost: 0.9494949494949495
+Odziv: 0.7286821705426356
+
+input	
+70
+median
+output
+Tochnost: 0.8278145695364238
+Preciznost: 0.927710843373494
+Odziv: 0.7938144329896907
+ 
+input	
+70
+max
+output
+Tochnost: 0.8278145695364238
+Preciznost: 0.927710843373494
+Odziv: 0.7938144329896907
+
+input	
+80
+mean
+output
+Tochnost: 0.9207920792079208
+Preciznost: 0.9672131147540983
+Odziv: 0.9076923076923077
+ 
+input	
+80
+var
+output
+Tochnost: 0.9207920792079208
+Preciznost: 0.9672131147540983
+Odziv: 0.9076923076923077
+ 
+input	
+80
+max
+output
+Tochnost: 0.9207920792079208
+Preciznost: 0.9672131147540983
+Odziv: 0.9076923076923077
+ 
+input	
+90
+mean
+output
+Tochnost: 0.9803921568627451
+Preciznost: 0.9705882352941176
+Odziv: 1.0
+ 
+input	
+90
+max
+output
+Tochnost: 0.9803921568627451
+Preciznost: 0.9705882352941176
+Odziv: 1.0
+
+input	
+50
+median
+output
+Tochnost: 0.8127490039840638
+Preciznost: 0.9596774193548387
+Odziv: 0.7391304347826086
+ 
+input	
+75
+max
+output
+Tochnost: 0.9365079365079365
+Preciznost: 0.974025974025974
+Odziv: 0.9259259259259259
+Odziv: 0.7540983606557377

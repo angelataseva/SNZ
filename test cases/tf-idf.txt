@@ -1,0 +1,388 @@
+НАОЃАЊЕ СЛИЧНИ ДОКУМЕНТИ СО TF-IDF
+input
+Kobe Bryant once scored 80+ points in only three quarters. They’re also, for the first time this season, the proud owners of a ten-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan on Sunday evening to move into third place on the NBA’s all-time scoring list.
+output
+Rang po slicnost:0 Cosine-Document #8 Pearson-Document #8
+Rang po slicnost:1 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:2 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:3 Cosine-Document #2 Pearson-Document #11
+Dvete metriki davaat ist rezultat:False
+ 
+input	
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mystical or hardcore or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super-duper-lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can go a little overboard
+output
+Rang po slicnost:0 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:1 Cosine-Document #9 Pearson-Document #9
+Rang po slicnost:2 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:3 Cosine-Document #7 Pearson-Document #7
+Dvete metriki davaat ist rezultat:True
+
+input
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. They’re also, for the first time this season, the proud owners of a three-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan
+output
+Rang po slicnost:0 Cosine-Document #8 Pearson-Document #8
+Rang po slicnost:1 Cosine-Document #7 Pearson-Document #7
+Rang po slicnost:2 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:3 Cosine-Document #2 Pearson-Document #2
+Dvete metriki davaat ist rezultat:True
+ 
+input	
+Sport science is the study of how the healthy human body works during exercise, and how sport and physical activity promotes health – physically, mentally and socially. The study of sport science calls upon and uses many other academic studies and areas, like physiology, psychology, engineering, chemistry and anatomy.
+output
+Rang po slicnost:0 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:1 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:2 Cosine-Document #1 Pearson-Document #1
+Rang po slicnost:3 Cosine-Document #9 Pearson-Document #6
+Dvete metriki davaat ist rezultat:False
+
+input	
+The BLS reports that the median annual salary for athletic trainers was $44,670 per year in 2015, and that those working in business, professional, labor, political or other organizations earned the highest average annual wage.
+output
+Rang po slicnost:0 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:1 Cosine-Document #4 Pearson-Document #4
+Rang po slicnost:2 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:3 Cosine-Document #11 Pearson-Document #11
+Dvete metriki davaat ist rezultat:True
+ 
+input	
+Sport Science degrees teach students transferable skills, such as presentation, research and communication, as well as an academic understanding of sport, and how athletes reach the peak of their fitness and skill. Particular job areas, as well as sports scientist, include physiologist, fitness centre manager, teaching and lecturing, sports administration, coaching, sports therapy, event management, and activities manager. Numerous companies offer graduate schemes in this subject, including schools, both in the UK and abroad.
+output
+Rang po slicnost:0 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:1 Cosine-Document #9 Pearson-Document #9
+Rang po slicnost:2 Cosine-Document #5 Pearson-Document #5
+Rang po slicnost:3 Cosine-Document #0 Pearson-Document #0
+Dvete metriki davaat ist rezultat:True
+ 
+input	
+Sport is generally recognised as set of activities which are based in physical athleticism or physical dexterity, with the largest major competitions such as the Olympic Games admitting only sports meeting this definition,[3] and other organisations such as the Council of Europe using definitions precluding activities without a physical element as sports.[2] However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee
+output
+Rang po slicnost:0 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:1 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:2 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:3 Cosine-Document #5 Pearson-Document #13
+Dvete metriki davaat ist rezultat:False
+ 
+input	
+Association football, more commonly known as football or soccer, is a team sport played with a spherical ball between two teams of eleven players. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.
+output
+Rang po slicnost:0 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:1 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:2 Cosine-Document #1 Pearson-Document #1
+Rang po slicnost:3 Cosine-Document #3 Pearson-Document #3
+Dvete metriki davaat ist rezultat:True
+
+КЛАСИФИКАЦИЈА НА ДОКУМЕНТИ
+input
+Paula seemed to take a liking to everyone this week.
+output
+formal
+ 
+input	
+I'd love to spend a summer with him on Brokeback Mountain!
+output
+unknown
+ 
+input	
+However, I can not find any information concerning that.
+output
+formal
+ 
+input	
+Especially when she wuz makin fun of Jessica Simpson washing dat car!
+output
+formal
+ 
+input	
+And it seems like ya'll forgot all about TLC.
+output
+formal
+ 
+input	
+The Beastie Boys perform a song containing the lyric 'I ate the chicken and then I ate his leg,' which I find very amusing as I believe the song is titled 'Egg Man.'
+output
+formal
+
+КЛАСИФИКАЦИЈА НА СПАМ КОМЕНТАРИ СО TF-IDF КАРАКТЕРИСТИКИ И ДРВО НА ОДЛУКА
+input
+eminem new song check out my videos
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+spam
+ 
+input	
+super
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+ham
+
+input	
+i love this song
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+ham
+
+input	
+Love you
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+ham
+ 
+input	
+I love you Eminem
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+ham
+ 
+input
+CHECK OUT MY YOUTUBE VIDEOS FOR FUNNY AND COOL RAP
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+spam
+
+input	
+beautiful song!
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+ham
+ 
+input
+it reminds me of a smaller version of 8 mile. Give this guy a chance since everyone has to start somewhere!
+output
+Tochnost: 0.918918918918919
+Preciznost: 0.96
+Odziv: 0.8727272727272727
+
+НАОЃАЊЕ НА КЛУЧНИ ЗБОРОВИ СО TF-IDF
+input
+0.5
+3, 10, 15, 20
+output
+3 -> change: 3.970291913552122, needs: 3.970291913552122, nothing: 3.970291913552122, there: 3.970291913552122
+10 -> ages: 3.970291913552122, biggest: 3.970291913552122, crap: 3.970291913552122, load: 3.970291913552122, seen: 3.970291913552122
+15 -> called: 3.2771447329921766, say: 3.2771447329921766, love: 2.583997552432231, you: 1.890850371872286
+20 -> job: 3.970291913552122, outstanding: 3.970291913552122, thought: 3.970291913552122, movie: 3.2771447329921766, did: 2.8716796248840124
+ 
+input	
+2
+3, 10, 15, 20
+output
+3 -> change: 3.970291913552122, needs: 3.970291913552122, nothing: 3.970291913552122, there: 3.970291913552122
+10 -> ages: 3.970291913552122, biggest: 3.970291913552122, crap: 3.970291913552122, load: 3.970291913552122, seen: 3.970291913552122
+15 -> called: 3.2771447329921766, say: 3.2771447329921766, love: 2.583997552432231
+20 -> job: 3.970291913552122, outstanding: 3.970291913552122, thought: 3.970291913552122, movie: 3.2771447329921766, did: 2.8716796248840124
+ 
+input	
+2
+10, 20, 30, 40, 50
+output
+10 -> ages: 3.970291913552122, biggest: 3.970291913552122, crap: 3.970291913552122, load: 3.970291913552122, seen: 3.970291913552122
+20 -> job: 3.970291913552122, outstanding: 3.970291913552122, thought: 3.970291913552122, movie: 3.2771447329921766, did: 2.8716796248840124
+30 -> aneways: 3.970291913552122, awsum: 3.970291913552122, cool: 3.970291913552122, narutos: 3.970291913552122, shonenjump: 3.970291913552122
+40 -> No keywords ...
+50 -> agree: 3.970291913552122, even: 3.970291913552122, hina: 3.970291913552122, scrumptious: 3.970291913552122, though: 3.970291913552122
+
+input	
+3.5
+10, 20, 30, 40, 50
+output
+10 -> ages: 3.970291913552122, biggest: 3.970291913552122, crap: 3.970291913552122, load: 3.970291913552122, seen: 3.970291913552122
+20 -> job: 3.970291913552122, outstanding: 3.970291913552122, thought: 3.970291913552122
+30 -> aneways: 3.970291913552122, awsum: 3.970291913552122, cool: 3.970291913552122, narutos: 3.970291913552122, shonenjump: 3.970291913552122
+40 -> No keywords ...
+50 -> agree: 3.970291913552122, even: 3.970291913552122, hina: 3.970291913552122, scrumptious: 3.970291913552122, though: 3.970291913552122
+ 
+input	
+2.8
+3, 5, 8, 20, 27, 35, 44
+output
+3 -> change: 3.970291913552122, needs: 3.970291913552122, nothing: 3.970291913552122, there: 3.970291913552122
+5 -> door: 3.970291913552122
+8 -> good: 3.970291913552122
+20 -> job: 3.970291913552122, outstanding: 3.970291913552122, thought: 3.970291913552122, movie: 3.2771447329921766, did: 2.8716796248840124
+27 -> another: 3.970291913552122, hot: 3.970291913552122, tell: 3.970291913552122, want: 3.970291913552122, way: 3.970291913552122
+35 -> No keywords ...
+44 -> chris: 3.970291913552122, concert: 3.970291913552122, encoure: 3.970291913552122, fact: 3.970291913552122, genesis: 3.970291913552122
+ham
+
+TF-IDF СО НАМАЛЕН ВОКАБУЛАР
+input
+Kobe Bryant once scored 80+ points in only three quarters. They’re also, for the first time this season, the proud owners of a ten-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan on Sunday evening to move into third place on the NBA’s all-time scoring list.
+output
+Rang po slicnost:0 Cosine-Document #8 Pearson-Document #8
+Rang po slicnost:1 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:2 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:3 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:4 Cosine-Document #0 Pearson-Document #6
+
+input	
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mystical or hardcore or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super-duper-lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can go a little overboard
+output
+Rang po slicnost:0 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:1 Cosine-Document #9 Pearson-Document #9
+Rang po slicnost:2 Cosine-Document #7 Pearson-Document #7
+Rang po slicnost:3 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:4 Cosine-Document #1 Pearson-Document #1
+
+input	
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. They’re also, for the first time this season, the proud owners of a three-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan
+output
+Rang po slicnost:0 Cosine-Document #8 Pearson-Document #8
+Rang po slicnost:1 Cosine-Document #7 Pearson-Document #7
+Rang po slicnost:2 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:3 Cosine-Document #14 Pearson-Document #6
+Rang po slicnost:4 Cosine-Document #13 Pearson-Document #11
+
+input	
+Sport science is the study of how the healthy human body works during exercise, and how sport and physical activity promotes health – physically, mentally and socially. The study of sport science calls upon and uses many other academic studies and areas, like physiology, psychology, engineering, chemistry and anatomy.
+output
+Rang po slicnost:0 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:1 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:2 Cosine-Document #1 Pearson-Document #1
+Rang po slicnost:3 Cosine-Document #14 Pearson-Document #6
+Rang po slicnost:4 Cosine-Document #13 Pearson-Document #11
+
+input
+The BLS reports that the median annual salary for athletic trainers was $44,670 per year in 2015, and that those working in business, professional, labor, political or other organizations earned the highest average annual wage.
+output
+Rang po slicnost:0 Cosine-Document #4 Pearson-Document #4
+Rang po slicnost:1 Cosine-Document #14 Pearson-Document #6
+Rang po slicnost:2 Cosine-Document #13 Pearson-Document #11
+Rang po slicnost:3 Cosine-Document #12 Pearson-Document #7
+Rang po slicnost:4 Cosine-Document #11 Pearson-Document #8
+
+input
+Sport Science degrees teach students transferable skills, such as presentation, research and communication, as well as an academic understanding of sport, and how athletes reach the peak of their fitness and skill. Particular job areas, as well as sports scientist, include physiologist, fitness centre manager, teaching and lecturing, sports administration, coaching, sports therapy, event management, and activities manager. Numerous companies offer graduate schemes in this subject, including schools, both in the UK and abroad.
+output
+Rang po slicnost:0 Cosine-Document #2 Pearson-Document #2
+Rang po slicnost:1 Cosine-Document #9 Pearson-Document #9
+Rang po slicnost:2 Cosine-Document #5 Pearson-Document #5
+Rang po slicnost:3 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:4 Cosine-Document #14 Pearson-Document #6
+ 
+input	
+Sport is generally recognised as set of activities which are based in physical athleticism or physical dexterity, with the largest major competitions such as the Olympic Games admitting only sports meeting this definition,[3] and other organisations such as the Council of Europe using definitions precluding activities without a physical element as sports.[2] However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee
+output
+Rang po slicnost:0 Cosine-Document #0 Pearson-Document #0
+Rang po slicnost:1 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:2 Cosine-Document #13 Pearson-Document #6
+Rang po slicnost:3 Cosine-Document #12 Pearson-Document #11
+Rang po slicnost:4 Cosine-Document #11 Pearson-Document #7
+
+input	
+Association football, more commonly known as football or soccer, is a team sport played with a spherical ball between two teams of eleven players. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport. 
+output
+Rang po slicnost:0 Cosine-Document #13 Pearson-Document #13
+Rang po slicnost:1 Cosine-Document #1 Pearson-Document #1
+Rang po slicnost:2 Cosine-Document #3 Pearson-Document #3
+Rang po slicnost:3 Cosine-Document #14 Pearson-Document #14
+Rang po slicnost:4 Cosine-Document #12 Pearson-Document #6
+
+НАЈСЛИЧНИ ДОКУМНЕТИ СПОРЕД КЛУЧНИ ЗБОРОВИ
+input
+Kobe Bryant once scored 80+ points in only three quarters. They’re also, for the first time this season, the proud owners of a ten-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan on Sunday evening to move into third place on the NBA’s all-time scoring list.
+output
+Dokument #8: all also bryant evening first for game have heard into jordan kobe list may michael move nba owners passed place proud scoring season streak sunday that they third this three time top winning you
+Dokument #2: first for have ten that this time
+Dokument #5: all for have into they this
+Dokument #11: all for game sunday that three
+ 
+input	
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mystical or hardcore or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super-duper-lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can go a little overboard
+output
+Dokument #0: about and have like little not that there
+Dokument #2: and but have not that this which will
+Dokument #5: all and have this which year
+Dokument #1: and below but this would
+
+input	
+The latest example is the super blood wolf moon eclipse, which sounds like the name of an emo song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. They’re also, for the first time this season, the proud owners of a three-game winning streak. On top of that, you may have heard, Kobe Bryant passed Michael Jordan
+output
+Dokument #8: also bryant first for game have heard jordan kobe may michael owners passed proud season streak that they this three time top winning you
+Dokument #2: but first for have that this time which
+Dokument #0: for have like that time
+Dokument #5: for have they this which
+
+input	
+Sport science is the study of how the healthy human body works during exercise, and how sport and physical activity promotes health – physically, mentally and socially. The study of sport science calls upon and uses many other academic studies and areas, like physiology, psychology, engineering, chemistry and anatomy.
+output
+Dokument #2: and how human science
+Dokument #0: and like many
+Dokument #1: and during
+Dokument #3: and
+ 
+input
+The BLS reports that the median annual salary for athletic trainers was $44,670 per year in 2015, and that those working in business, professional, labor, political or other organizations earned the highest average annual wage.
+output
+Dokument #0: and for that was
+Dokument #4: and for those year
+Dokument #11: and for that was
+Dokument #2: and for that
+ 
+input	
+Sport Science degrees teach students transferable skills, such as presentation, research and communication, as well as an academic understanding of sport, and how athletes reach the peak of their fitness and skill. Particular job areas, as well as sports scientist, include physiologist, fitness centre manager, teaching and lecturing, sports administration, coaching, sports therapy, event management, and activities manager. Numerous companies offer graduate schemes in this subject, including schools, both in the UK and abroad.
+output
+Dokument #2: and how science this
+Dokument #5: and peak their this
+Dokument #9: and both their
+Dokument #0: and such
+ 
+input
+Sport is generally recognised as set of activities which are based in physical athleticism or physical dexterity, with the largest major competitions such as the Olympic Games admitting only sports meeting this definition,[3] and other organisations such as the Council of Europe using definitions precluding activities without a physical element as sports.[2] However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee
+output
+Dokument #2: and but this which with
+Dokument #0: and are only such
+Dokument #1: and are but this
+Dokument #5: and are this which
+ 
+input	
+Association football, more commonly known as football or soccer, is a team sport played with a spherical ball between two teams of eleven players. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.
+output
+Dokument #14: and over soccer team world
+Dokument #1: and million more two
+Dokument #3: and commonly known
+Dokument #5: and over world
+
+КЛАСИФИКАЦИЈА НА ДОКУМЕНТИ СПОРЕД НАЈСЛИЧНИ КОМЕНТАРИ
+input
+5
+eminem new song check out my videos
+output
+Predvidenata klasa e spam so 5/5 glasovi.
+
+input	
+10
+super
+output
+Predvidenata klasa e spam so 1/2 glasovi.
+ 
+input	
+13
+i love this song
+output
+Predvidenata klasa e ham so 13/13 glasovi.
+ 
+input	
+6
+CHECK OUT MY YOUTUBE VIDEOS FOR FUNNY AND COOL RAP
+output
+Predvidenata klasa e spam so 4/6 glasovi.
+ 
+input	
+15
+it reminds me of a smaller version of 8 mile. Give this guy a chance since everyone has to start somewhere!
+output
+Predvidenata klasa e spam so 10/15 glasovi.
